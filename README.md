@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmed Ayman Khedr
 Information Systems Student
 ---------------------------
 
-I love Embedded Systems.
+I love Data Analysis.
 
 *   🌍  I'm based in Egypt
 *   ✉️  You can contact me at [ahmed-ayman-khedr@hotmail.com](mailto:ahmed-ayman-khedr@hotmail.com)
