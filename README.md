@@ -4,17 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
+I'm a Data Scientist passionate about leveraging data to solve real-world problems. I specialize in data analysis, data visualization, and building end-to-end data pipelines. Welcome to my GitHub profile!
+
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ahmed-ayma-khedr@hotmail.com](mailto:ahmed-ayma-khedr@hotmail.com)
 * 🧠  I'm learning Associate Data Scientist in Python specialization on DataCamp
 * 🤝  I'm open to collaborating on Data Science Projects
 
-### Skills
+## 🔧 **Tech Stack**
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Other Tools**: Git
 
+## 🌟 **Featured Projects**
+Here are some of my favorite projects:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+### 1. [Visualizing-the-History-of-Nobel-Prize-Winners-on-DataCamp]([https://github.com/yourusername/customer-churn-prediction](https://github.com/Developer-Ahmed-Ayman-khedr/Visualizing-the-History-of-Nobel-Prize-Winners-on-DataCamp))
+- **Description**: Built a Show the most commonly awarded gender and birth country.
+- **Tools**: Python, numpy, Pandas, Matplotlib, Seaborn
+- **Key Results**: The most commonly awarded gender is Male, and the most commonly awaeded country is the USA.
+
 
 
 ### Socials
