@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmed Ayman Khedr
 ==========================================================================================================================================
 
-Web Developer
--------------
+Full-Stack Web Engineer
+-----------------------
 
-Bachelor of BIS.
+Full-Stack development Diploma at ITSharks.
 
 Master of Software Engineering at Cairo University.
 
-Full-Stack development Diploma at ITSharks.
+Bachelor of BIS.
 
 *   🌍  I'm based in Egypt
 *   🖥️  See my portfolio at [MyPortfolio](http://developer-ahmed-ayman-khedr.github.io/ahmedKhedr.github.io/)
