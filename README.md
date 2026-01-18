@@ -11,7 +11,7 @@ Master of Software Engineering at Cairo University.
 Bachelor of BIS.
 
 *   🌍  I'm based in Egypt
-*   🖥️  See my portfolio at [MyPortfolio](https://developer-ahmed-ayman-khedr.github.io/Portfolio/)
+*   🖥️  See my portfolio at [MyPortfolio](https://developer-ahmed-ayman-khedr.github.io/CodeAlpha_Portfolio/)
 *   🖥️  See my Projects at [Projects](http://developer-ahmed-ayman-khedr.github.io/ahmedKhedr.github.io/)
 *   ✉️  You can contact me at [ahmed-ayman-khedr@hotmail.com](mailto:ahmed-ayman-khedr@hotmail.com)
 *   🧠  I'm currently learning Full-Stack Web Developent using React at ITSharks
